@@ -1,4 +1,4 @@
-# Cofre de Senhas (CustomTkinter)
+# Cofre de Senhas
 
 Um gerenciador de senhas simples, offline e multiplataforma, com interface **CustomTkinter** e armazenamento em **SQLite**. Ideal para uso pessoal/local.
 
